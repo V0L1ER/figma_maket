@@ -402,7 +402,7 @@ article {
 .one-link-button {
   width: 283px;
   height: 74px;
-  margin: 0 auto;
+  margin: auto;
   display: block;
 
   background: #326cf9;
@@ -417,7 +417,7 @@ article {
   color: #ffffff;
   border-radius: 10px;
 }
-.expert{
+.expert {
   margin: 0px auto 0px auto;
 }
 .experts {
