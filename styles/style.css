@@ -66,6 +66,11 @@ header {
   line-height: 30px;
   margin-right: 24px;
 }
+.header-log:hover,
+.header-log:focus,
+.header-log:active {
+  opacity: 75%;
+}
 .header-sign {
   font-weight: 500;
   font-size: 20px;
@@ -77,6 +82,11 @@ header {
 
   background: #306ef7;
   border-radius: 10px;
+}
+.header-sign:hover,
+.header-sign:focus,
+.header-sign:active {
+  opacity: 75%;
 }
 /* header style end */
 
@@ -142,6 +152,12 @@ header {
 
   border-radius: 10px;
 }
+.button-get-start:hover,
+.button-get-start:focus,
+.button-get-start:active {
+  opacity: 75%;
+}
+
 .button-view {
   font-weight: 500;
   font-size: 20px;
@@ -154,6 +170,11 @@ header {
 
   border: 1px solid #707070;
   border-radius: 10px;
+}
+.button-view:hover,
+.button-view:focus,
+.button-view:active {
+  opacity: 75%;
 }
 .button-text {
   display: flex;
@@ -252,6 +273,11 @@ header {
   border: 1px solid #707070;
   border-radius: 10px;
 }
+.step-button:hover,
+.step-button:focus,
+.step-button:active {
+  opacity: 75%;
+}
 /* step style end */
 
 /* your-homepage style start */
@@ -301,6 +327,11 @@ header {
 
   border-radius: 10px;
 }
+.your-homepage-button-get-start:hover,
+.your-homepage-button-get-start:focus,
+.your-homepage-button-get-start:active {
+  opacity: 75%;
+}
 .your-homepage-button-view-demo {
   font-weight: 500;
   font-size: 20px;
@@ -313,6 +344,11 @@ header {
 
   border: 1px solid #707070;
   border-radius: 10px;
+}
+.your-homepage-button-view-demo:hover,
+.your-homepage-button-view-demo:focus,
+.your-homepage-button-view-demo:active {
+  opacity: 75%;
 }
 /* your-homepage style end */
 
@@ -343,6 +379,11 @@ header {
   background: #326cf9;
 
   border-radius: 10px;
+}
+.one-link-button:hover,
+.one-link-button:focus,
+.one-link-button:active {
+  opacity: 75%;
 }
 /* one-link style end */
 
@@ -412,6 +453,11 @@ header {
   background: #326cf9;
   border-radius: 10px;
 }
+.get-start-button:hover,
+.get-start-button:focus,
+.get-start-button:active {
+  opacity: 75%;
+}
 /* get-start style end */
 
 /* footer style start */
@@ -440,5 +486,10 @@ footer {
 }
 .footer-nav-bar-link {
   margin-right: 46px;
+}
+.footer-nav-bar-link:hover,
+.footer-nav-bar-link:focus,
+.footer-nav-bar-link:active {
+  opacity: 75%;
 }
 /* footer style end */
