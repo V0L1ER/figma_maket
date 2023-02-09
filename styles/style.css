@@ -90,6 +90,10 @@ header {
 }
 /* header style end */
 
+main{
+  margin: 0 20px 0 20px;
+}
+
 /* own-text style start */
 .own-text {
   margin-top: 142px;
@@ -365,6 +369,9 @@ header {
   justify-content: center;
   align-items: center;
 }
+.one-link-img{
+  width: 99%;
+}
 .one-link-button {
   margin-top: 50px;
   font-weight: 500;
@@ -399,6 +406,9 @@ header {
   font-weight: 600;
   font-size: 75px;
   line-height: 112px;
+}
+.exp-agr-img{
+  width: 99%;
 }
 /* exp-agr-text style end */
 
@@ -439,6 +449,7 @@ header {
   font-weight: 400;
   font-size: 43px;
   line-height: 64px;
+  text-align: center;
 }
 .get-start-button {
   font-weight: 600;
@@ -493,3 +504,11 @@ footer {
   opacity: 75%;
 }
 /* footer style end */
+
+/* adaptive style start */
+@media screen and (max-width: 1245px){
+  .your-homepage-img{
+    display: none;
+  }
+}
+/* adaptive style end */
